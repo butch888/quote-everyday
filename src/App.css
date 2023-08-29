@@ -1,0 +1,46 @@
+body {
+  background-color: #000000e6;
+}
+.quotes__wrapper {
+  max-width:340px;
+  margin: 50px auto;
+  text-align: center;
+  color: aliceblue;
+  /* border: 1px solid rgb(0, 0, 0); */
+}
+table {
+  padding: 20px;
+}
+th {
+  border: 1px solid rgba(255, 255, 255, 0.803);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0;
+}
+td {
+  padding: 10px;
+}
+.month__year {
+  font-size: 20px;
+}
+.quote {
+  font-size: 20px;
+  padding: 5px;
+}
+.day:hover {
+  border-radius: 10px;
+  background-color: #308e32;
+  color: #000000;
+}
+.active {
+  border-radius: 10px;
+  font-weight: bold;
+  background-color: #fff58a;
+  color: #000000;
+}
+
+
+
+
+
+
