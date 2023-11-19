@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quote-everyday/static/css/main.cb4f1764.css",
-    "main.js": "/quote-everyday/static/js/main.a8f290df.js",
+    "main.js": "/quote-everyday/static/js/main.850e51aa.js",
     "static/js/787.0dfb02cd.chunk.js": "/quote-everyday/static/js/787.0dfb02cd.chunk.js",
     "index.html": "/quote-everyday/index.html",
     "main.cb4f1764.css.map": "/quote-everyday/static/css/main.cb4f1764.css.map",
-    "main.a8f290df.js.map": "/quote-everyday/static/js/main.a8f290df.js.map",
+    "main.850e51aa.js.map": "/quote-everyday/static/js/main.850e51aa.js.map",
     "787.0dfb02cd.chunk.js.map": "/quote-everyday/static/js/787.0dfb02cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb4f1764.css",
-    "static/js/main.a8f290df.js"
+    "static/js/main.850e51aa.js"
   ]
 }
