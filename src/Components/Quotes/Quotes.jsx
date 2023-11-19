@@ -100,9 +100,7 @@ function getNumOfDay(event) {
 }
 
 function blurDay() {
-    setTimeout(function() {
-        setToday(day)
-    }, 5000)
+    setToday(day);
 }
 
 const rows = nums.map(function(num, index) {
